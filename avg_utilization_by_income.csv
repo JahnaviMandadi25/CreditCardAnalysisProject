@@ -1,0 +1,7 @@
+Income_Category,avg_utilization
+"Less than $40K",0.38
+"$40K - $60K",0.32
+Unknown,0.22
+"$60K - $80K",0.21
+"$80K - $120K",0.16
+"$120K +",0.13

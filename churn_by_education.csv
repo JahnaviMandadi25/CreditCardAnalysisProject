@@ -1,0 +1,8 @@
+Education_Level,total,churned,churn_rate
+"High School",2013,306,15.20
+Graduate,3128,487,15.57
+Uneducated,1487,237,15.94
+Unknown,1519,256,16.85
+College,1013,154,15.20
+Post-Graduate,516,92,17.83
+Doctorate,451,95,21.06
